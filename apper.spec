@@ -24,7 +24,7 @@ BuildRequires:	cmake(Qt5Quick)
 BuildRequires:	cmake(Qt5Sql)
 BuildRequires:	cmake(Qt5Widgets)
 BuildRequires:	cmake(Qt5XmlPatterns)
-BuildRequires:	cmake(ecm)
+BuildRequires:	cmake(ECM)
 BuildRequires:	qt5-macros
 BuildRequires:	pkgconfig(dbus-1)
 BuildRequires:	pkgconfig(packagekitqt5)
